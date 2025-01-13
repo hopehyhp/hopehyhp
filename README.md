@@ -1,3 +1,4 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hopehyhp)
 - 👋 Hi, I’m @hopehyhp
 - 👀 I’m interested in Full-stack develop (prefer Front-end!)
 - 🌱 I’m currently learning Angular, Vue and related component libraries.
