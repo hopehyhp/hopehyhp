@@ -20,7 +20,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Poppins', arial, sans-serif;    
+  font-family: 'Poppins', arial, sans-serif;
   color: #5A5252;
   margin: 10px 0px;
   line-height: 1.8em;
@@ -71,7 +71,7 @@ a {
   letter-spacing: 1px;
 }
 
-a:hover, 
+a:hover,
 a:focus,
 a:active {
   text-decoration: none;
@@ -180,7 +180,7 @@ a.custom-btn-1:focus {
 .dot {
   color: #111111;
   font-size: 35px;
-  margin-left: 2px;  
+  margin-left: 2px;
 }
 
 .sub-icon span {
@@ -240,7 +240,7 @@ a.custom-btn-1:focus {
 /* ====================================== */
 
 header {
-  background-image: url(../img/home-banner.jpg);
+  background-image: url(../img/user.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -257,7 +257,7 @@ header h1 {
 header .cd-headline b {
   color: #FFFFFF;
   font-weight: 300;
-  margin: 0px;  
+  margin: 0px;
 }
 
 header .container {
@@ -290,7 +290,7 @@ header .row {
 }
 
 .navbar {
-  border: 0;  
+  border: 0;
   margin-bottom: 0;
   border-radius: 0;
 }
@@ -304,8 +304,8 @@ header .row {
 }
 
 .navbar-default {
-  font-weight: 400;  
-  padding: 0 0;  
+  font-weight: 400;
+  padding: 0 0;
   border-bottom: 1px solid #E7E7E7;
   background-color: #F7F7F7;
 }
@@ -318,7 +318,7 @@ header .row {
   transition: all 0.2s ease-in;
 }
 
-.navbar-default .navbar-nav > li > a:focus, 
+.navbar-default .navbar-nav > li > a:focus,
 .navbar-default .navbar-nav > li > a:hover {
   color: #8E8B8B;
 }
@@ -327,7 +327,7 @@ header .row {
 .navbar-default .navbar-nav > li > a:hover  {
   color: #111111;
   background-color: transparent;
-  outline-style: none;  
+  outline-style: none;
 }
 
 .navbar-default .navbar-nav> .active> a:hover,
@@ -408,7 +408,7 @@ header .row {
   transition: all 0.3s ease;
 }
 
-.download-cv a:hover, 
+.download-cv a:hover,
 .download-cv a:focus {
   background-color: #383535;
 }
@@ -434,7 +434,7 @@ header .row {
   font-family: 'Source Sans Pro', arial, sans-serif;
   font-size: 14px;
   font-weight: 400;
-  letter-spacing: .6px;  
+  letter-spacing: .6px;
 }
 
 .progress {
@@ -489,7 +489,7 @@ header .row {
 
 @media screen and ( max-width: 320px ) {
   #quotes h2 {
-    padding: 20px 10px; 
+    padding: 20px 10px;
   }
 }
 
@@ -499,7 +499,7 @@ header .row {
 
 #portfolio {
   padding: 80px 0px 40px 0px;
-  border-bottom: 1px solid #F1EBEB;  
+  border-bottom: 1px solid #F1EBEB;
 }
 
 .portfolio-wrap .mix {
@@ -551,7 +551,7 @@ header .row {
   font-family: 'Lato', arial, sans-serif;
   font-style: italic;
   font-weight: 400;
-  margin-top: 20px;  
+  margin-top: 20px;
 }
 
 /* ======================================
@@ -597,7 +597,7 @@ header .row {
 
 #experience {
   padding: 80px 0px 0px 0px;
-  border-top: 1px solid #F1EBEB;     
+  border-top: 1px solid #F1EBEB;
 }
 
 .experience {
@@ -717,7 +717,7 @@ header .row {
 .owl-buttons {
   position: absolute;
   top: -55px;
-  right: 10px;  
+  right: 10px;
 }
 
 .owl-theme .owl-controls .owl-buttons div {
@@ -735,7 +735,7 @@ header .row {
 
 #brands {
   padding: 0px 0px 40px 0px;
-  border-bottom: 1px solid #F1EBEB;  
+  border-bottom: 1px solid #F1EBEB;
 }
 
 /* ======================================
@@ -744,7 +744,7 @@ header .row {
 
 #blog {
   padding: 80px 0px 40px 0px;
-  border-bottom: 1px solid #F1EBEB;  
+  border-bottom: 1px solid #F1EBEB;
 }
 
 .blog-img-overlay {
@@ -780,7 +780,7 @@ header .row {
 
 #blog a {
   color: #111111;
-  text-decoration: none;  
+  text-decoration: none;
   letter-spacing: 1px;
 }
 
