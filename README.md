@@ -1,4 +1,6 @@
 [![Hopehyhp's GitHub stats](https://github-readme-stats.vercel.app/api?username=hopehyhp)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @hopehyhp
 - 👀 I’m interested in Full-stack develop (prefer Front-end!)
 - 🌱 I’m currently learning Angular, Vue and related component libraries.
