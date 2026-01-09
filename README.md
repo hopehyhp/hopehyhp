@@ -1,5 +1,4 @@
-[![Hopehyhp's GitHub stats](https://github-readme-stats.vercel.app/api?username=hopehyhp)]
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Hopehyhp's GitHub stats](https://github-readme-stats.vercel.app/api?username=hopehyhp)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @hopehyhp
 - 👀 I’m interested in Full-stack develop (prefer Front-end!)
