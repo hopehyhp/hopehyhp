@@ -8,7 +8,7 @@
 
 Welcome to view my personal static website: [https://hopehyhp.github.io/hopehyhp/](https://hopehyhp.github.io/hopehyhp/)
 
-Personal Hobbie: 🎮 **Naraka** from NetEase 🎮 **Black Myth: Wukong** from Game Science ☕ **Iced Americano forever**
+Personal Hobbie: 🎮 **Naraka** from NetEase 🎮 **Delta Force** from Tencent ☕ **Iced Americano forever**
 <!---
 hopehyhp/hopehyhp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
